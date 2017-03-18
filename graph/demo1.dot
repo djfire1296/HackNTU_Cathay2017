@@ -1,0 +1,4 @@
+digraph demo1 {
+  A -> B -> C [color = red ,penwidth = 2];
+  A -> {D E};
+}
